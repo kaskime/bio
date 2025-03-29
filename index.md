@@ -1,4 +1,4 @@
 ---
-title: ¡Emilio López!
+title: Emilio Julián López García
 ---
 
