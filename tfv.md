@@ -11,5 +11,6 @@ Se elaboró un programa que forma la figura de catálogo de una válvula. Mejora
 El programa se desarrolló en su totalidad usando el motor de videojuegos Godot v.4.4.1. También se realizó un visor de válvulas 3D, en donde se mostraba el desespiece (o explosionado) de cada válvula. Permitiendo desplazar, rotar y escalar el modelo y controlando la animación con una barra para observar con detenimiento la animación. Además, al seleccionar cada parte de la válvula aparece un texto que indica el nombre de dicha pieza. Cada modelo fue realizado y animado usando Blender v.4.4
 
 ![TFV Visor3D](asset/tfv_02.jpg)
+![TFV Visor3D](asset/tfv_03.jpg)
 
 [Regresar](./)
