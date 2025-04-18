@@ -13,7 +13,7 @@ Ingeniero con experiencia laboral dentro de la **industria alimenticia** y **met
 Me encargué de realizar planos 2D y animaciones 3D de válvulas industriales para manejo de fluidos. Utilizando principalmente _AutoCAD_ para diseño de una variedad de válvulas a manufacturar en fundición o forja. Y _Blender_ para animaciones 3D del despiece de las mismas para clientes potenciales.
 
 >
-> [Ver proyectos realizados en TFV](./tfv.html).
+> [Ver proyectos realizados en TFV](./tfv.html)
 >
 
 ## Planeador de mantenimiento: Comercializadora Mac'Ma S.A. de S.A.P.I. (2023 - 2024)
@@ -21,7 +21,7 @@ Me encargué de realizar planos 2D y animaciones 3D de válvulas industriales pa
 Gestioné órdenes de trabajo de mantenimiento, obtuve los indicadores del departamento, planifiqué actividades preventivas y correctivas. Diseñé instalaciones (2D y 3D) para nuevas líneas de producción. Formé parte del equipo de auditores internos bajo el esquema _FSSC 22000 ver. 6.0_
 
 >
-> [Ver proyectos realizados en Mac'Ma](./mac'ma.html).
+> [Ver proyectos realizados en Mac'Ma](./mac'ma.html)
 >
 
 ### Becario de mantenimiento: Comercializadora Mac'Ma S.A. de S.A.P.I. (2023)
