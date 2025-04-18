@@ -6,4 +6,6 @@ layout: default
 
 Se elaboró un programa que permite formar el número de figura que se requiere para pedir la válvula por parte del cliente. Mejorando los tiempos de acudir a consultar cada catálogo por cada válvula a solicitar
 
-[back](./)
+![TFV H2O](asset/tfv_01.jpg)
+
+[Regresar](./)
