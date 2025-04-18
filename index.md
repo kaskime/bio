@@ -18,6 +18,8 @@ Me encargué de realizar planos 2D y animaciones 3D de válvulas industriales pa
 
 Gestioné órdenes de trabajo de mantenimiento, obtuve los indicadores del departamento, planifiqué actividades preventivas y correctivas. Diseñé instalaciones (2D y 3D) para nuevas líneas de producción. Formé parte del equipo de auditores internos bajo el esquema FSSC 22000 ver. 6.0
 
+[Proyectos Mac'Ma](./mac'ma.html).
+
 ### Becario de mantenimiento: Comercializadora Mac'Ma S.A. de S.A.P.I. (2023)
 
 Realicé el levantamiento o _layout_ de toda la compañía, generaba los reportes de mantenimiento preventivo de las máquinas conforme a sus manuales y mecanismos presentes en las líneas de producción. 
