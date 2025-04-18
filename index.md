@@ -12,7 +12,7 @@ Ingeniero con experiencia laboral dentro de la industria alimenticia y metal-mec
 
 Me encargué de realizar planos 2D y animaciones 3D de válvulas industriales para manejo de fluidos. Utilizando principalmente AutoCAD para diseño de una variedad de válvulas a manufacturar en fundición o forja. Y Blender para animaciones 3D del despiece de las mismas para clientes potenciales.
 
-[Aportaciones TFV](./tfv.html).
+[Proyectos TFV](./tfv.html).
 
 ## Planeador de mantenimiento: Comercializadora Mac'Ma S.A. de S.A.P.I. (2023 - 2024)
 
